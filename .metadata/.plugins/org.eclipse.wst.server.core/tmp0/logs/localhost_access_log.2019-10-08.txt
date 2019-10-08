@@ -1,0 +1,8 @@
+127.0.0.1 - - [08/Oct/2019:20:34:42 +0530] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [08/Oct/2019:20:35:33 +0530] "GET /SpringMVC_Hibernate/ HTTP/1.1" 404 1047
+127.0.0.1 - - [08/Oct/2019:20:53:21 +0530] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [08/Oct/2019:20:53:23 +0530] "GET /SpringMVC_Hibernate/ HTTP/1.1" 200 501
+0:0:0:0:0:0:0:1 - - [08/Oct/2019:20:53:33 +0530] "GET /SpringMVC_Hibernate/newProject HTTP/1.1" 200 999
+0:0:0:0:0:0:0:1 - - [08/Oct/2019:20:53:44 +0530] "POST /SpringMVC_Hibernate/saveProject HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [08/Oct/2019:20:53:44 +0530] "GET /SpringMVC_Hibernate/ HTTP/1.1" 200 694
+0:0:0:0:0:0:0:1 - - [08/Oct/2019:21:20:25 +0530] "GET /SpringMVC_Hibernate/ HTTP/1.1" 200 700
